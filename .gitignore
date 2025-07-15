@@ -14,5 +14,5 @@ env/
 venv/
 .venv/
 
-# Data files (optional: only if you don't want to push raw/cleaned data)
+# Data files
 data/raw/
