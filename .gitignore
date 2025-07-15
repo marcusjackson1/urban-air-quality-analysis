@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter notebook autosaves
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# Data files (optional: only if you don't want to push raw/cleaned data)
+data/raw/

@@ -19,5 +19,5 @@ urban-air-quality-analysis/
 ├── notebooks/
 │   └── Urban_Air_Quality_EDA.ipynb
 ├── README.md
-├── 02_requirements.txt
-└── 03_.gitignore
+├── requirements.txt
+└── .gitignore
